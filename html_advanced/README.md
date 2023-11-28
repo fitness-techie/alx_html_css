@@ -1,0 +1,1 @@
+This contains the html code to replicate the homepage file (available on figma) of an online school.
