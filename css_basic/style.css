@@ -1,0 +1,12 @@
+.body_1 {
+    display: flex; flex-direction: column;
+}
+.main_1 {
+    display: flex; flex-direction: row; flex: auto;
+}
+.article_1 {
+    flex: 2; overflow-y: auto; background-color: brown; color: aqua;
+}
+.aside {
+    flex: 1; overflow-y: auto;
+}
